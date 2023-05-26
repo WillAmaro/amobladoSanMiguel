@@ -73,7 +73,10 @@ a{
     height: 100%;
     object-fit: cover;
 }
-
+.navbar .logotipo{
+    width: 500px;
+    height: 100px;
+}
 .navbar .logo{
     font-size: 2em;
     font-weight: bold;
